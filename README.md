@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://githance.in/api/render?type=header&variant=circuit&v=rect-v4&name=nooridenibrahim&subtitle=Open-source+builder+shipping+software+&theme=midnight" alt="Custom header" />
+  <img src="https://githance.in/api/render?type=header&variant=circuit&v=rect-v4&name=Nooridenibrahim&subtitle=Open-source+builder+shipping+software+&theme=midnight" alt="Custom header" />
 </div>
 
 
@@ -50,7 +50,7 @@
 <div align="center">
 ## Find Me Online
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/noorIdenIbrahim"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" alt="GitHub" width="34" height="34" /></a>&nbsp;&nbsp;
   <a href="https://instagram.com/noor.iden__04"><img src="https://api.iconify.design/simple-icons:instagram.svg?color=%23E4405F" alt="Instagram" width="34" height="34" /></a>&nbsp;&nbsp;
   <a href="https://wa.me/00970598927872"><img src="https://api.iconify.design/simple-icons:whatsapp.svg?color=%2325D366" alt="WhatsApp" width="34" height="34" /></a>&nbsp;&nbsp;
